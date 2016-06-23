@@ -6,7 +6,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/atom-build-stylus.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-stylus)
 [![David](https://img.shields.io/david/dev/idleberg/atom-build-stylus.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-stylus#info=dependencies)
 
-[Atom Build](https://atombuild.github.io/) provider for `sass`, compiles Stylus into CSS.
+[Atom Build](https://atombuild.github.io/) provider for `stylus`, compiles Stylus into CSS.
 
 ## Installation
 
