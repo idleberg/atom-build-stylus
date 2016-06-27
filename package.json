@@ -1,14 +1,13 @@
 {
-  "name": "build-stylus",
-  "version": "0.2.0",
-  "description": "Atom Build provider for stylus, compiles Stylus",
-  "repository": "https://github.com/idleberg/atom-build-stylus",
+  "name": "build-tclsh",
+  "version": "0.0.0",
+  "description": "Atom Build provider for tclsh, compiles Tcl",
+  "repository": "https://github.com/idleberg/atom-build-tclsh",
   "license": "MIT",
   "keywords": [
     "build",
     "compile",
-    "stylus",
-    "css",
+    "tcl",
     "linter",
     "lint"
   ],
@@ -18,7 +17,7 @@
   },
   "providedServices": {
     "builder": {
-      "description": "Compiles Stylus",
+      "description": "Compiles Tcl",
       "versions": {
         "2.0.0": "provideBuilder"
       }
