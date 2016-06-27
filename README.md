@@ -1,20 +1,20 @@
-# build-tclsh
+# build-stylus
 
-[![apm](https://img.shields.io/apm/l/build-tclsh.svg?style=flat-square)](https://atom.io/packages/build-tclsh)
-[![apm](https://img.shields.io/apm/v/build-tclsh.svg?style=flat-square)](https://atom.io/packages/build-tclsh)
-[![apm](https://img.shields.io/apm/dm/build-tclsh.svg?style=flat-square)](https://atom.io/packages/build-tclsh)
-[![Travis](https://img.shields.io/travis/idleberg/atom-build-tclsh.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-tclsh)
-[![David](https://img.shields.io/david/dev/idleberg/atom-build-tclsh.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-tclsh#info=dependencies)
+[![apm](https://img.shields.io/apm/l/build-stylus.svg?style=flat-square)](https://atom.io/packages/build-stylus)
+[![apm](https://img.shields.io/apm/v/build-stylus.svg?style=flat-square)](https://atom.io/packages/build-stylus)
+[![apm](https://img.shields.io/apm/dm/build-stylus.svg?style=flat-square)](https://atom.io/packages/build-stylus)
+[![Travis](https://img.shields.io/travis/idleberg/atom-build-stylus.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-stylus)
+[![David](https://img.shields.io/david/dev/idleberg/atom-build-stylus.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-stylus#info=dependencies)
 
-[Atom Build](https://atombuild.github.io/) provider for `tclsh`, compiles Tcl.
+[Atom Build](https://atombuild.github.io/) provider for `stylus`, compiles Stylus into CSS.
 
 ## Installation
 
 ### apm
 
-Install `build-tclsh` from Atom's [Package Manager](http://flight-manual.atom.io/using-atom/sections/atom-packages/) or the command-line equivalent:
+Install `build-stylus` from Atom's [Package Manager](http://flight-manual.atom.io/using-atom/sections/atom-packages/) or the command-line equivalent:
 
-`$ apm install build-tclsh`
+`$ apm install build-stylus`
 
 ### GitHub
 
@@ -28,11 +28,9 @@ $ cd %USERPROFILE%\.atom\packages
 $ cd ~/.atom/packages/
 ```
 
-Clone repository as `build-tclsh`:
+Clone repository as `build-stylus`:
 
-```bash
-$ git clone https://github.com/idleberg/atom-build-tclsh build-tclsh
-``
+`$ git clone https://github.com/idleberg/atom-build-stylus build-stylus`
 
 ## Usage
 
@@ -42,7 +40,7 @@ Before you can build, select an active target with your preferred build option.
 
 Available targets:
 
-* `tclsh`
+* `Stylus [options]`
 
 ### Shortcuts
 
@@ -70,4 +68,4 @@ This work is licensed under the [The MIT License](LICENSE.md).
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-build-tclsh) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-build-stylus) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
