@@ -1,6 +1,6 @@
 {
   "name": "build-stylus",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "Atom Build provider for stylus, compiles Stylus",
   "repository": "https://github.com/idleberg/atom-build-stylus",
   "license": "MIT",
