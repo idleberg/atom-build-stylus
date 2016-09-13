@@ -45,7 +45,8 @@ Before you can build, select an active target with your preferred build option.
 
 Available targets:
 
-* `Stylus [options]`
+* `Stylus [compress|sourcemap]`
+* `Watch Stylus [compress]`
 
 ### Shortcuts
 
