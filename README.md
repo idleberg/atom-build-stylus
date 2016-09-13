@@ -9,6 +9,10 @@
 
 [Atom Build](https://atombuild.github.io/) provider for `stylus`, compiles Stylus into CSS.
 
+![Screenshot](https://raw.githubusercontent.com/idleberg/atom-build-stylus/master/screenshot.png)
+
+*See the linter in action*
+
 ## Installation
 
 ### apm
