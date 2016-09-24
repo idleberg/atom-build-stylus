@@ -35,7 +35,16 @@ $ cd ~/.atom/packages/
 
 Clone repository as `build-stylus`:
 
-`$ git clone https://github.com/idleberg/atom-build-stylus build-stylus`
+```bash
+$ git clone https://github.com/idleberg/atom-build-stylus build-stylus
+```
+
+Install Node dependencies:
+
+```bash
+cd build-stylus
+npm install
+```
 
 ## Usage
 
