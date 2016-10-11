@@ -43,7 +43,7 @@ Install Node dependencies:
 
 ```bash
 $ cd build-stylus
-$ npm install
+$ yarn || npm install
 ```
 
 ## Usage
