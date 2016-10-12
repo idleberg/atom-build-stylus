@@ -39,10 +39,9 @@ Clone repository as `build-stylus`:
 $ git clone https://github.com/idleberg/atom-build-stylus build-stylus
 ```
 
-Install Node dependencies:
+Inside the cloned directory, install Node dependencies:
 
 ```bash
-$ cd build-stylus
 $ yarn || npm install
 ```
 
