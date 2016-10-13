@@ -21,7 +21,7 @@ Install `build-stylus` from Atom's [Package Manager](http://flight-manual.atom.i
 
 `$ apm install build-stylus`
 
-### GitHub
+### Using Git
 
 Change to your Atom packages directory:
 
