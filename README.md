@@ -3,9 +3,8 @@
 [![apm](https://img.shields.io/apm/l/build-stylus.svg?style=flat-square)](https://atom.io/packages/build-stylus)
 [![apm](https://img.shields.io/apm/v/build-stylus.svg?style=flat-square)](https://atom.io/packages/build-stylus)
 [![apm](https://img.shields.io/apm/dm/build-stylus.svg?style=flat-square)](https://atom.io/packages/build-stylus)
-[![Travis](https://img.shields.io/travis/idleberg/atom-build-stylus.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-stylus)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-build-stylus)](https://circleci.com/gh/idleberg/atom-build-stylus)
 [![David](https://img.shields.io/david/idleberg/atom-build-stylus.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-stylus)
-[![David](https://img.shields.io/david/dev/idleberg/atom-build-stylus.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-stylus?type=dev)
 
 [Atom Build](https://atombuild.github.io/) provider for `stylus`, compiles Stylus into CSS.
 
@@ -25,11 +24,21 @@ Install `build-stylus` from Atom's [Package Manager](http://flight-manual.atom.i
 
 Change to your Atom packages directory:
 
-```bash
-# Windows
-$ cd %USERPROFILE%\.atom\packages
+**Windows**
 
-# Linux & macOS
+```powershell
+# Powershell
+$ cd $Env:USERPROFILE\.atom\packages
+```
+
+```cmd
+:: Command Prompt
+$ cd %USERPROFILE%\.atom\packages
+```
+
+**Linux & macOS**
+
+```bash
 $ cd ~/.atom/packages/
 ```
 
@@ -78,4 +87,4 @@ Here's a reminder of the default shortcuts you can use with this package:
 
 ## License
 
-This work is licensed under the [The MIT License](LICENSE.md).
+This work is licensed under the [The MIT License](LICENSE).
