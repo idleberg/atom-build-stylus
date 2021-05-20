@@ -1,10 +1,11 @@
 # build-stylus
 
-[![apm](https://img.shields.io/apm/l/build-stylus.svg?style=flat-square)](https://atom.io/packages/build-stylus)
-[![apm](https://img.shields.io/apm/v/build-stylus.svg?style=flat-square)](https://atom.io/packages/build-stylus)
-[![apm](https://img.shields.io/apm/dm/build-stylus.svg?style=flat-square)](https://atom.io/packages/build-stylus)
-[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-build-stylus)](https://circleci.com/gh/idleberg/atom-build-stylus)
-[![David](https://img.shields.io/david/idleberg/atom-build-stylus.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-stylus)
+[![apm](https://flat.badgen.net/apm/license/build-homebrew)](https://atom.io/packages/build-homebrew)
+[![apm](https://flat.badgen.net/apm/v/build-homebrew)](https://atom.io/packages/build-homebrew)
+[![apm](https://flat.badgen.net/apm/dl/build-homebrew)](https://atom.io/packages/build-homebrew)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-build-homebrew)](https://circleci.com/gh/idleberg/atom-build-homebrew)
+[![David](https://flat.badgen.net/david/dev/idleberg/atom-build-homebrew)](https://david-dm.org/idleberg/atom-build-homebrew?type=dev)
+
 
 [Atom Build](https://atombuild.github.io/) provider for `stylus`, compiles Stylus into CSS.
 
